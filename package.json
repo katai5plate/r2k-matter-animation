@@ -1,0 +1,12 @@
+{
+  "name": "r2k-matter-animation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/katai5plate/r2k-matter-animation",
+  "author": "katai5plate <katai5plate.sub@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1"
+  }
+}
